@@ -5,6 +5,7 @@ import en from '../locales/en.json';
 import es from '../locales/es.json';
 import fr from '../locales/fr.json';
 import it from '../locales/it.json';
+import ja from '../locales/ja.json';
 import ptBR from '../locales/ptBR.json';
 import ru from '../locales/ru.json';
 import zh from '../locales/zh.json';
@@ -21,6 +22,8 @@ const getKnownLanguage = (language: string) => {
       return fr;
     case 'it':
       return it;
+    case 'ja':
+      return ja;
     case 'ptBR':
       return ptBR;
     case 'ru':

@@ -1,0 +1,39 @@
+{
+  "common": {
+    "noEvents": "イベントなし"
+  },
+  "buttons": {
+    "today": "本日",
+    "agenda": "アジェンダ",
+    "day": "日",
+    "threeDays": "3日間",
+    "week": "週",
+    "month": "月",
+    "showMore": "もっと表示",
+    "newEvent": "新しいイベント"
+  },
+  "months": {
+    "january": "1月",
+    "february": "2月",
+    "march": "3月",
+    "april": "4月",
+    "may": "5月",
+    "june": "6月",
+    "july": "7月",
+    "august": "8月",
+    "september": "9月",
+    "october": "10月",
+    "november": "11月",
+    "december": "12月"
+  },
+  "weekDays": {
+    "Mon": "月曜日",
+    "Tue": "火曜日",
+    "Wed": "水曜日",
+    "Thu": "木曜日",
+    "Fri": "金曜日",
+    "Sat": "土曜日",
+    "Sun": "日曜日"
+  },
+  "weekShort": "週"
+}
